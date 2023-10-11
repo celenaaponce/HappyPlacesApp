@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyPlaces</string>
+
+    <string name="google_maps_api_key">AIzaSyAnSbVl8JOtYskn8SenGNAvUHYLBw9Z__Y</string>
+</resources>
